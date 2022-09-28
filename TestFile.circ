@@ -62,7 +62,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(110,130)" to="(110,140)"/>
     <wire from="(130,70)" to="(130,130)"/>
     <comp lib="0" loc="(30,130)" name="Pin"/>
+    <comp lib="0" loc="(470,200)" name="Pin"/>
     <comp lib="4" loc="(330,300)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(420,150)" name="Pin"/>
     <comp lib="4" loc="(330,390)" name="D Flip-Flop"/>
     <comp lib="4" loc="(330,130)" name="D Flip-Flop"/>
     <comp lib="4" loc="(350,220)" name="D Flip-Flop"/>
